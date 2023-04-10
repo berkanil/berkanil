@@ -1,9 +1,9 @@
-#### Hi, I'm Anil 👋
+### Hi, I'm Anil 👋
 
-## ** I am a Software Quality Assurance Engineer. **
+# **I am a Software Quality Assurance Engineer.**
 
-# :books: * Currently: MSc. IT at Ege University *
-# :earth_americas: * Previously: BSc. Electrical & Electronics Engineering *
+# :books: *Currently: MSc. IT at Ege University*
+# :earth_americas: *Previously: BSc. Electrical & Electronics Engineering*
 
 I have 2+ years of hands-on experience in ==DevOps, Networking, Cloud Automation, Software Configuration
 Management, Build, Deployment, Infrastructure Management and Software development environment. ==
@@ -17,7 +17,7 @@ Testing, Integration System and System Testing and setting
 up the test environment. Network configuration and trouble shooting in Linux.
 
 
-### :computer: I'm Learning
+## :computer: I'm Learning
 
 - AWS
 - AZURE
