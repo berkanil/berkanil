@@ -1,16 +1,23 @@
-### Hi there 👋
+#### Hi, I'm Anil 👋
 
-<!--
-**berkanil/berkanil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ** I am a Software Quality Assurance Engineer. **
 
-Here are some ideas to get you started:
+# :books: * Currently: MSc. IT at Ege University *
+# :earth_americas: * Previously: BSc. Electrical & Electronics Engineering *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have 2+ years of hands-on experience in ==DevOps, Networking, Cloud Automation, Software Configuration
+Management, Build, Deployment, Infrastructure Management and Software development environment. ==
+I am proficient in developing continuous integration and delivery pipelines. Experienced with integration
+tools like Jenkins. Hands-on knowledge of software containerization platforms and container
+orchestration tools. Conducted integration tests on network and software to verify compatibility and
+quality.
+
+Involved in Functional, Automation, Smoke, Performance
+Testing, Integration System and System Testing and setting
+up the test environment. Network configuration and trouble shooting in Linux.
+
+
+### :computer: I'm Learning
+
+- AWS
+- AZURE
