@@ -21,3 +21,4 @@ up the test environment. Network configuration and trouble shooting in Linux.
 
 - AWS
 - AZURE
+- Openshift
